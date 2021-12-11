@@ -1,0 +1,2 @@
+# discordder-moderasyon
+discordder moderasyon
